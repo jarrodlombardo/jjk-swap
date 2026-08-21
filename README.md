@@ -5,7 +5,9 @@ Inspired by Todo's swapping ability shown here: https://www.youtube.com/watch?v=
 
 ## Installation and Setup
 
-TODO
+Option 1: Install via the usual foundry package manager (TODO: insert link once approved).
+
+Option 2: Install by pasting the latest released [module.json](https://github.com/jarrodlombardo/jjk-swap/releases/latest/download/module.json) in the module installer's `Manifest URL` box.
 
 ## Usage
 
@@ -13,7 +15,7 @@ When the player executes the macro, the module will attempt to swap the two toke
 
 ## TODOs
 
-1. test/update to work on v13 and v14 while maintaining v12 support.
-2. implement a feature item with a Use action so the player doesn't need to run a macro
-3. add settings so the GM can update/change how the save DC works. Maybe do that in the item?
-4. create a 2.0.0 that removes the socket code (and increases the minimum core version to v13).
+1. implement a feature item with a Use action so the player doesn't need to run a macro
+2. add settings so the GM can update/change how the save DC works. Maybe do that in the item?
+3. create a 2.0.0 that removes the socket code (and increases the minimum core version to v13).
+4. Test/verify for v14
