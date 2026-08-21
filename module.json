@@ -1,11 +1,11 @@
 {
   "id": "jjk-swap",
   "title": "JJK Swap",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "socket": true,
   "compatibility": {
     "minimum": "12",
-    "verified": "12.343"
+    "verified": "13.351"
   },
   "authors": [
     {
@@ -25,7 +25,7 @@
           "compatibility": {
             "minimum": "4.4.4",
             "maximum": "5.999",
-            "verified": "4.4.4"
+            "verified": "5.3.3"
           }
         }
       ]
